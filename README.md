@@ -28,7 +28,7 @@
     - 네이버 지식쇼핑 연동을 통해 Time To Market 경험
     - Laravel 6.x 기반 제작
     - AWS Lightsail 기반 운용
-- [충남도립대 대학일자리센터](job.cnsu.ac.kr) (2018년)
+- [충남도립대 대학일자리센터](job.cnsu.ac.kr) (2018년 12월)
     - 퍼블리싱 참여
     - JSP/스프링 기반 개발
     - jQuery 프레임워크 기반
