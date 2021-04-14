@@ -12,7 +12,7 @@
     - Laravel Echo(Pusher 기반)를 통한 실시간 다중 사용자 채팅 개발가능
     
 ### 개발참여
-- [SFunSy](https://sfunsy.edumoa.com) (2012년 ~ 2015년)
+- [SFunSy](http://sfunsy.edumoa.com) (2012년 ~ 2015년)
     - 에듀모아 탭강/SFunSy 모바일 학습지 안드로이드 개발및 유지보수
     - 에듀모아 탭강 RestFul API 유지보수
     - SFunSy 웹 어플리케이션 개발
