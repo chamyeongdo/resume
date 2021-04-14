@@ -2,9 +2,9 @@
 
 ## SKILLS
 - Vue.js 2.x/3.x
-    - Nuxt.js 프레임워크 기반 Vue.js 개발가능
-    - Vuetify UI Framework 기반 Material UI/UX 퍼블리싱 가능
-    - Vue.js 기반 HTML/CSS/Javascript 를 통한 퍼블리싱 가능
+    - Nuxt.js 프레임워크 기반 개발가능
+    - Vuetify UI 프레임워크 기반 퍼블리싱 가능
+    - Vue.js 기반 HTML/CSS/Javascript 퍼블리싱 가능
     
 - PHP/Laravel 8.x
     - MySQL 통해 관계형 데이터베이스(ORM) 개발 가능
