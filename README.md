@@ -1,6 +1,12 @@
 # 차명도(chamyeongdo@icloud.com)
 
 ## SKILLS
+
+- 운영
+    - 구글 애널리틱스 기반 마케팅 데이터 활용
+    - Jenkins 기반 지속적 배포환경 구축
+    - AWS Lightsail 기반 서버 운영경험
+
 - Vue.js 2.x/3.x
     - Nuxt.js 프레임워크 기반 개발가능
     - Vuetify UI 프레임워크 기반 퍼블리싱 가능
