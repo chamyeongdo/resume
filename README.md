@@ -9,7 +9,8 @@
 - PHP/Laravel 8.x
     - MySQL 통해 관계형 데이터베이스(ORM) 개발 가능
     - RestFul API 개발및 운영경험 보유
-    - Laravel Echo(Pusher 기반)를 통한 실시간 다중 사용자 채팅 개발가능
+    - Laravel Echo(Pusher) 기반 실시간 다중 사용자 채팅 개발가능
+    - 네이버 지식쇼핑 채널 연동 개발경험
    
 ## PROJECTS
 - [SFunSy](http://sfunsy.edumoa.com) (2012년 ~ 2015년)
