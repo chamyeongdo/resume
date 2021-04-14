@@ -1,6 +1,6 @@
 # 차명도(chamyeongdo@icloud.com)
 
-## 보유스킬
+## SKILLS
 - Vue.js 2.x/3.x
     - Nuxt.js 프레임워크 기반 Vue.js 개발가능
     - Vuetify UI Framework 기반 Material UI/UX 퍼블리싱 가능
@@ -11,7 +11,7 @@
     - RestFul API 개발및 운영경험 보유
     - Laravel Echo(Pusher 기반)를 통한 실시간 다중 사용자 채팅 개발가능
    
-## 개발참여
+## PROJECTS
 - [SFunSy](http://sfunsy.edumoa.com) (2012년 ~ 2015년)
     - 에듀모아 탭강/SFunSy 모바일 학습지 안드로이드 개발및 유지보수
     - 에듀모아 탭강 RestFul API 유지보수
@@ -47,7 +47,7 @@
     - 영카트 기반(PHP) 게임 커뮤니티 개발
     - Vue.js 기반 퍼블리싱
 
-## 경력
+## WORK EXPERIENCE
 
 - (주)이야기 SFunSy 사업부 개발및 유지보수 [산업기능요원 편입] (2012년 8월 ~ 2015년 11월)
     - 스마트 학습지 SFunSy 문제은행툴 유지보수 담당
@@ -60,7 +60,7 @@
     - 3000여개 매장별 홈페이지 Tworld 프렌즈 개발및 유지보수 담당
     - 판매상담 연구실 T.Lab 개발및 유지보수 담당
 
-## 학력
+## EDUCATION & CERTIFICATE
 
 - 영진전문대학 컴퓨터정보계열 졸업 (2018년 3월)
 - 정보처리기능사 수료
