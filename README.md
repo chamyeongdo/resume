@@ -12,11 +12,11 @@
     - Laravel Echo(Pusher 기반)를 통한 실시간 다중 사용자 채팅 개발가능
     
 ### 개발참여
-- [SFunSy](sfunsy.edumoa.com) (2012년 ~ 2015년)
+- [SFunSy](https://sfunsy.edumoa.com) (2012년 ~ 2015년)
     - 에듀모아 탭강/SFunSy 모바일 학습지 안드로이드 개발및 유지보수
     - 에듀모아 탭강 RestFul API 유지보수
     - SFunSy 웹 어플리케이션 개발
-- [Tworld 프렌즈](tworldfriends.co.kr) (2020년 6월 ~)
+- [Tworld 프렌즈](https://tworldfriends.co.kr) (2020년 6월 ~)
     - Laravel 8.x 기반 제작
     - Nuxt.js(Vue.js 2.x) 프레임워크 기반
     - Vuetify UI 프레임워크 기반
@@ -24,26 +24,26 @@
 - [~~T.Lab~~](skt.world) (2019년)
     - Laravel 6.x 기반 제작
     - AWS Lightsail 기반 운용
-- [~~히트렌탈~~](hitrental.co.kr) (2019년 3월)
+- [~~히트렌탈~~](https://hitrental.co.kr) (2019년 3월)
     - 네이버 지식쇼핑 연동을 통해 Time To Market 경험
     - Laravel 6.x 기반 제작
     - AWS Lightsail 기반 운용
-- [충남도립대 대학일자리센터](job.cnsu.ac.kr) (2018년 12월)
+- [충남도립대 대학일자리센터](https://job.cnsu.ac.kr) (2018년 12월)
     - 퍼블리싱 참여
     - JSP/스프링 기반 개발
     - jQuery 프레임워크 기반
-- [스타법률사무소](www.star-law.com) (2015년)
+- [스타법률사무소](https://www.star-law.com) (2015년)
     - 그누보드 기반(PHP) 개발
     - 퍼블리싱 참여
-- [플로우진](flow-jeans.com) (2018년)
+- [플로우진](https://flow-jeans.com) (2018년)
     - 영카트 기반(PHP) 여성의류 쇼핑몰 개발
     - 퍼블리싱 참여
-- [구루핀](gurupin.co.kr) (2017년)
+- [구루핀](https://gurupin.co.kr) (2017년)
     - 영카트 기반(PHP) 부동산 커뮤니티 개발
     - 퍼블리싱 참여
-- [현대미가](play.google.com/store/apps/details?id=com.hyundaimiga.hyundaimigaapp&hl=ko&gl=US) (2019년)
+- [현대미가](https://play.google.com/store/apps/details?id=com.hyundaimiga.hyundaimigaapp&hl=ko&gl=US) (2019년)
     - 안드로이드 어플리케이션 개발 
-- [~~겜픽~~](gempic.kr) (2015년)
+- [~~겜픽~~](https://gempic.kr) (2015년)
     - 영카트 기반(PHP) 게임 커뮤니티 개발
     - Vue.js 기반 퍼블리싱
 
